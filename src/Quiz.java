@@ -100,7 +100,7 @@ public class Quiz {
                 System.out.println("No lo has hecho mal");
             }
         System.out.println(points);
-
+    scanner.close();
             //Preguntas:
         /* 1. ¿Quién fue la hacker que escribió en 1994 Hacking the Wetware?
                 a. Ada c. Lovelace
